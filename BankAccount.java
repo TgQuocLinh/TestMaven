@@ -13,7 +13,7 @@ public class BankAccount {
       amount = balance;
     }
 
-    balance -= amount;
+    balance -= amount
     return amount;
   }
 
